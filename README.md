@@ -1,2 +1,2 @@
 # dummy-repo [rewrite]
-This is a diverging branch. I'll preserve this in the clone I'll make.
+This is a diverging branch. I'll prasfrgsetha4wtqepr|EAO/PJIOHOIioneserve this in the clone I'll make.
