@@ -1,2 +1,2 @@
-# dummy-repo
-I'm going to try and clone this repo while maintaining issue links. Wish me luck.
+# dummy-repo [rewrite]
+This is a diverging branch. I'll preserve this in the clone I'll make.
